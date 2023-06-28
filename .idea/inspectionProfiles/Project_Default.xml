@@ -1,0 +1,92 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="language.code" />
+            <item index="1" class="java.lang.String" itemvalue="language_code" />
+            <item index="2" class="java.lang.String" itemvalue="selected{%" />
+            <item index="3" class="java.lang.String" itemvalue="endif" />
+            <item index="4" class="java.lang.String" itemvalue="%}" />
+            <item index="5" class="java.lang.String" itemvalue="{%" />
+            <item index="6" class="java.lang.String" itemvalue="store_country" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="3.9" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="47">
+            <item index="0" class="java.lang.String" itemvalue="ipaddress" />
+            <item index="1" class="java.lang.String" itemvalue="django-otp" />
+            <item index="2" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="3" class="java.lang.String" itemvalue="django-sass-processor" />
+            <item index="4" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="5" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="6" class="java.lang.String" itemvalue="sorl-thumbnail" />
+            <item index="7" class="java.lang.String" itemvalue="django-storages" />
+            <item index="8" class="java.lang.String" itemvalue="awscli" />
+            <item index="9" class="java.lang.String" itemvalue="requests" />
+            <item index="10" class="java.lang.String" itemvalue="kombu" />
+            <item index="11" class="java.lang.String" itemvalue="redis" />
+            <item index="12" class="java.lang.String" itemvalue="celery" />
+            <item index="13" class="java.lang.String" itemvalue="django-getenv" />
+            <item index="14" class="java.lang.String" itemvalue="httpsig" />
+            <item index="15" class="java.lang.String" itemvalue="django-user-agents" />
+            <item index="16" class="java.lang.String" itemvalue="libsass" />
+            <item index="17" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="18" class="java.lang.String" itemvalue="xlrd" />
+            <item index="19" class="java.lang.String" itemvalue="django-webpack-loader" />
+            <item index="20" class="java.lang.String" itemvalue="raven" />
+            <item index="21" class="java.lang.String" itemvalue="djangorestframework-jwt" />
+            <item index="22" class="java.lang.String" itemvalue="phonenumbers" />
+            <item index="23" class="java.lang.String" itemvalue="maxminddb" />
+            <item index="24" class="java.lang.String" itemvalue="ipython" />
+            <item index="25" class="java.lang.String" itemvalue="reportlab" />
+            <item index="26" class="java.lang.String" itemvalue="django-compressor" />
+            <item index="27" class="java.lang.String" itemvalue="pdfkit" />
+            <item index="28" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="29" class="java.lang.String" itemvalue="django-templated-email" />
+            <item index="30" class="java.lang.String" itemvalue="django-modeltranslation" />
+            <item index="31" class="java.lang.String" itemvalue="django-libsass" />
+            <item index="32" class="java.lang.String" itemvalue="boto3" />
+            <item index="33" class="java.lang.String" itemvalue="user-agents" />
+            <item index="34" class="java.lang.String" itemvalue="django-grappelli" />
+            <item index="35" class="java.lang.String" itemvalue="elastic-apm" />
+            <item index="36" class="java.lang.String" itemvalue="django-filter" />
+            <item index="37" class="java.lang.String" itemvalue="pyexcel" />
+            <item index="38" class="java.lang.String" itemvalue="Django" />
+            <item index="39" class="java.lang.String" itemvalue="django-redis" />
+            <item index="40" class="java.lang.String" itemvalue="furl" />
+            <item index="41" class="java.lang.String" itemvalue="ua-parser" />
+            <item index="42" class="java.lang.String" itemvalue="pyexcel-xls" />
+            <item index="43" class="java.lang.String" itemvalue="geoip2" />
+            <item index="44" class="java.lang.String" itemvalue="pyexcel-xlsx" />
+            <item index="45" class="java.lang.String" itemvalue="supervisor" />
+            <item index="46" class="java.lang.String" itemvalue="Pillow" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="django.utils.six.text_type" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
